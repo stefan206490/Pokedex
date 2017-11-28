@@ -23,6 +23,7 @@ namespace Pokedex
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
